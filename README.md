@@ -19,16 +19,16 @@ With the module being open source, and its user-friendly work envrionment, you c
 ---
 
 ### Setup
-Most, if not every admin command module or system, requires no setup. With the way AdminService is designed, it unfortunately does, but it can be done in only three lines of code!
+Most, if not every admin command module or system requires no setup. With the way AdminService is designed, it unfortunately does, but it's done in only three lines of code!
 
-Despite needing setup via another script, but as mentioned, only needs three lines; however, you need to insert the module before you can do anything else.
+Despite needing setup via another script as already mentioned, it only takes three lines of code; however, you need to insert the module before you can do anything else.
 
 If you don't have the module, [get it here](https://create.roblox.com/marketplace/asset/14663644773/AdminService).
 
-Then in Studio, you need the toolbox open if you don't already. Go to the `Home` tab at the very top, or the `View` tab, and click the `Toolbox` button in either tab.
-Next, you have to insert the module by going to "My Models," which is the button that has four squares.
+---
 
-Here is an image pointing where you need to go:
+In Studio, you need the toolbox open if you don't already. Go to the `Home` tab at the very top, or the `View` tab, and click the `Toolbox` button in either tab.
+Next, you have to insert the module by going to "My Models"
 
 ![screenshot](/images/screenshots/toolbox1.png)
 

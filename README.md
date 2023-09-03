@@ -24,6 +24,7 @@ Next, you have to insert the module by going to "My Models," which is the button
 
 Here is an image pointing where you need to go:
 
+![screenshot](/images/toolbox1.png)
 
 ---
 

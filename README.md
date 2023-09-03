@@ -1,5 +1,5 @@
 ![adminservice_icon](/images/temporary_icon.png)
-# AdminService
+## AdminService
 
 **The official documentation on the open source module 'AdminService,' the versatile, easy-to-work-with admin module for any and all Roblox developers to use!**
 

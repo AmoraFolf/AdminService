@@ -15,7 +15,7 @@ AdminService is an open source module meant to make admin commands easy!
 ---
 
 ### Setup
-Most, if not every admin command module or system, like  requires no setup. With the way AdminService is designed, it unfortunately does, but it can be done in three lines.
+Most, if not every admin command module or system, requires no setup. With the way AdminService is designed, it unfortunately does, but it can be done in three lines.
 
 Despite needing setup via another script, but as mentioned, only needs three lines; however, you need to insert the module before you can do anything else.
 

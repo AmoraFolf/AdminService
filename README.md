@@ -20,7 +20,7 @@ With the module being open source, and its user-friendly work envrionment, you c
 
 ### Setup
 
->![!IMPORTANT]
+>[!IMPORTANT]
 >Small amounts of setup is needed. Without it. AdminService will not work.
 
 

@@ -1,6 +1,6 @@
 # AdminService
 
-![adminservice_icon](/images/temporary_icon.png)
+![adminservice_icon](/images/logos/temporary_icon.png)
 
 **The official documentation on the open source module 'AdminService,' the versatile, easy-to-work-with admin module for any and all Roblox developers to use!**
 
@@ -20,7 +20,7 @@ With the module being open source, and its user-friendly work envrionment, you c
 
 ### Setup
 
->[!IMPORTANT]
+>[important1](images/notifications/important.png)
 >Small amounts of setup is needed. Without it. AdminService will not work.
 
 
@@ -93,3 +93,12 @@ Adding players into permissions is very simple. `1` is the highest permission, a
 
 If you've had errors and nothing here has helped your problem, if you have an important question that wasn't solved here or anywhere else, or if you need extra support, PM me on the DevForum!
 [This is my profile](https://devforum.roblox.com/u/amorafolf/summary)
+
+
+---
+
+### Thank you for choosing or looking into AdminService!
+
+I hope you have a great rest of your day or night.
+
+![amorafolfgames](images/logos/AmoraFolf_Games_256x128.png)

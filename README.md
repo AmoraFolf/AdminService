@@ -100,6 +100,6 @@ If you've had errors and nothing here has helped your problem, if you have an im
 
 ### Thank you for choosing or looking into AdminService!
 
-I hope you have a great rest of your day or night.
+I hope you have a great rest of your day or night!
 
 ![amorafolfgames](images/logos/AmoraFolf_Games_256x128.png)

@@ -10,8 +10,8 @@ theme:
   name: material
   favicon: ../images/logos/AG_64.png
   palette:
-    primary: "Deep Purple"
-    accent: "Deep Purple"
+    primary: deep-purple
+    accent: purple
 
 nav:
   - Home: index.md

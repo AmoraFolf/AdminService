@@ -1,7 +1,7 @@
 ### Setup
 
 >[!IMPORTANT]
->Small amounts of setup is needed. Without it. AdminService will not work.
+>Small amounts of setup is needed. Without it, AdminService will not work!
 
 
 Most, if not every admin command module or system requires no setup. With the way AdminService is designed, it unfortunately does, but it's done in only three lines of code!

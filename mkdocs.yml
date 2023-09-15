@@ -1,0 +1,26 @@
+site_name: AdminService
+site_url: https://amorafolf.github.io/AdminService
+repo_name: AmoraFolf/AdminService
+repo_url: https://github.com/AmoraFolf/AdminService
+
+theme:
+  icon:
+    logo: material/database
+    repo: fontawesome/brands/git-alt
+  name: material
+  favicon: ../images/logos/AG_64.png
+  palette:
+    primary: "Purple"
+    accent: "Deep Purple"
+
+nav:
+  - Home: home.md
+  - Basics:
+    - Setup: basics/setup.md
+    - _aux: basics/_aux_module.md
+  - Troubleshooting: troubleshooting.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences

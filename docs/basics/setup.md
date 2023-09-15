@@ -1,4 +1,4 @@
-### Setup
+# Setup
 
 >[!IMPORTANT]
 >Small amounts of setup is needed. Without it, AdminService will not work!

@@ -14,7 +14,7 @@ theme:
     accent: "Deep Purple"
 
 nav:
-  - Home: home.md
+  - Home: index.md
   - Basics:
     - Setup: basics/setup.md
     - _aux: basics/_aux_module.md

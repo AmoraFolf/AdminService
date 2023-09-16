@@ -27,8 +27,8 @@ It may prompt you with a notification saying the model includes scripts. Just cl
 
 Next, it should appear in the `Workspace`. Drag it from there into `ServerScriptService`, or into a folder in `ServerScriptService`. You could also put it in `ServerStorage` or a folder in there instead.
 
-![screenshot4](../../images/screenshots/inworkspace.png)
-![screenshot5](../../images/screenshots/insss.png)
+![screenshot4](../images/screenshots/inworkspace.png)
+![screenshot5](../images/screenshots/insss.png)
 
 Then insert a new script into `ServerScriptService`:
 

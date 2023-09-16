@@ -10,7 +10,7 @@ theme:
     logo: material/database
     repo: fontawesome/brands/git-alt
   name: material
-  favicon: images/logos/AG_64.png
+  favicon: docs/images/logos/AG_64.png
   palette:
   - scheme: slate
     toggle:

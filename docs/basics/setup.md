@@ -42,6 +42,10 @@ local AdminService = require(script.Parent:WaitForChild("AdminService")) --// Ge
 Players.PlayerAdded:Connect(AdminService.init) --// Runs the initializer for the player and sets everything up for them.
 ```
 
+!!! warning
+    AdminService should never be ran by a script, or be parented outside of (or have a common ancestor that isn't) `ServerScriptService` or `ServerStorage`. It could easily be accessed by an exploiter and abused.
+    AdminService should also never be ran by a `LocalScript`, but it can't be in the first place if it's parented to (or has the common ancestor of) `ServerScriptService` or `ServerStorage`.
+
 ---
 
 And boom, you've setup AdminService!

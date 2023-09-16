@@ -6,9 +6,6 @@ All this page contains is the contents of the "Read Me Important" module inside 
 
 ```lua
 --[[
-This module contains no code, but it has important information.
-
-
 AmoraFolf's AdminService:
 
 

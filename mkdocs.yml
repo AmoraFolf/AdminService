@@ -3,6 +3,8 @@ site_url: https://amorafolf.github.io/AdminService
 repo_name: AmoraFolf/AdminService
 repo_url: https://github.com/AmoraFolf/AdminService
 
+language: en
+
 theme:
   icon:
     logo: material/database
@@ -10,8 +12,18 @@ theme:
   name: material
   favicon: images/logos/AG_64.png
   palette:
-    primary: "Deep Purple"
-    accent: "Deep Purple"
+  - scheme: slate
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Light mode
+    primary: deep-purple
+    accent: orange
+  - scheme: default
+    toggle:
+      icon: material/toggle-switch
+      name: Dark mode
+    primary: deep-purple
+    accent: orange
 
 nav:
   - Home: index.md
@@ -24,3 +36,13 @@ markdown_extensions:
   - admonition
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg

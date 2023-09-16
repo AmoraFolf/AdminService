@@ -1,4 +1,4 @@
-### Troubleshooting and support
+# Troubleshooting and support
 
 ADD MORE INFORMATION WHEN IT IS NECESSARY
 

@@ -1,6 +1,6 @@
 # AdminService
 
-![adminservice_icon](images/logos/temporary_icon.png)
+![adminservice_icon](../images/logos/temporary_icon.png)
 
 **The official documentation on the open source module 'AdminService,' the versatile, easy-to-work-with admin module for any and all Roblox developers to use!**
 
@@ -20,4 +20,4 @@ With the module being open source, and its user-friendly work envrionment, you c
 
 I hope you have a great rest of your day or night!
 
-![amorafolfgames](images/logos/AmoraFolf_Games_256x128.png)
+![amorafolfgames](../images/logos/AmoraFolf_Games_256x128.png)

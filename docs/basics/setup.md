@@ -15,11 +15,11 @@ If you don't have the module, [get it here](https://create.roblox.com/marketplac
 In Studio, you need the toolbox open if you don't already. Go to the `Home` tab at the very top, or the `View` tab, and click the `Toolbox` button in either tab.
 Next, you have to insert the module by going to "My Models"
 
-![screenshot](/images/screenshots/toolbox1.png)
+![screenshot](../images/screenshots/toolbox1.png)
 
 Then you click on the model to insert it:
 
-![screenshot2](/images/screenshots/toolbox2.png)
+![screenshot2](../images/screenshots/toolbox2.png)
 
 It may prompt you with a notification saying the model includes scripts. Just click "Ok" to insert it:
 

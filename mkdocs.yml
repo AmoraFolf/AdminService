@@ -3,8 +3,6 @@ site_url: https://amorafolf.github.io/AdminService
 repo_name: AmoraFolf/AdminService
 repo_url: https://github.com/AmoraFolf/AdminService
 
-language: en
-
 theme:
   icon:
     logo: material/database

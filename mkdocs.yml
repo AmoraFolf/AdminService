@@ -29,6 +29,7 @@ nav:
     - Setup: basics/setup.md
     - _aux: basics/_aux_module.md
   - Troubleshooting: troubleshooting.md
+  - Thank You: thank-you.md
 
 markdown_extensions:
   - admonition

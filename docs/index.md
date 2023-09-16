@@ -14,12 +14,4 @@ With the module being open source, and its user-friendly work envrionment, you c
 
 ### Click [here](https://www.youtube.com) to view the DevForum post about AdminService. This documentation is where the most information is.
 
----
-
-### Thank you for choosing or looking into AdminService!
-
-I hope you have a great time with this module!
-
-![amorafolfgames](images/logos/AmoraFolf_Games_256x128.png)
-
 [To the Basics!](https://amorafolf.github.io/AdminService/basics/setup/){ .md-button .md-button--primary }

@@ -4,10 +4,13 @@ There is nothing to read on this page!
 
 All this page contains is the contents of the "Read Me Important" module inside of AdminService in case you deleted it, want it check it out here, or whatever other reason you don't in studio.
 
-```lua
---[[
-AmoraFolf's AdminService:
+---
 
+---
+
+---
+
+AmoraFolf's AdminService:
 
 Current version: UNDER_DEVELOPMENT:1.0.0-PRIVATE
 The most recent version will always be listed on the Roblox model page, Roblox DevForum post, and documentation.
@@ -15,13 +18,13 @@ The most recent version will always be listed on the Roblox model page, Roblox D
 When updating, be sure to copy every custom command you've made, and the description for them into the new version before deleting the old version, otherwise they will
 be deleted!
 
-------
+---
 
 Credit:
 
 I only want credit I built into this module. You can add more credit if you want, but please do not change or remove the credits placed into the built-in GUI!
 
-------
+---
 
 Thank you so much for using AdminService!
 
@@ -36,7 +39,7 @@ local AdminService = require(script:WaitForChild("AdminService"))
 
 Players.PlayerAdded:Connect(AdminService.init)
 
-------
+---
 
 The module is completely open source, and you can change just about everything in it, as well as add your own commands!
 
@@ -50,7 +53,7 @@ then paste it and change it according to the function's info (i.e. name (must be
 Also don't forget to make the name of the command inside of the commands module all lowercase, otherwise it won't find the command to run in the main module
 using "local status = _aux.plrStatus(arguments)" is required to be used in any command you create that has a player for an argument
 
-------
+---
 
 Important Information and Terms:
 
@@ -71,7 +74,7 @@ Terms:
 		internet) without sufficient credit to the creator and original model, or violate any other conditions under the GNU General Public License v3.0 on Roblox or any
 		other site and platform. Any work found in violation of the license will have action taken against it to be removed from Roblox or other site on the internet.
 
-------
+---
 
 Explaining _aux:
 
@@ -94,6 +97,3 @@ _aux.hasPermission(player) is used to check if a player has a certain permission
 zero and they are an admin (which they have to be to have the permission level NumberValue), they will have access to all commands not restricted by permission checks
 
 _aux.getCharacters() will return a table of the characters for every player in the experience
-
-]]
-```

@@ -28,6 +28,7 @@ nav:
   - Basics:
     - Setup: basics/setup.md
     - _aux: basics/_aux_module.md
+    - Adding Commands: basics/adding_commands.md
   - The "Read Me Important" Module: read-me-important.md
   - Troubleshooting: troubleshooting.md
   - Thank You: thank-you.md

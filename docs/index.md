@@ -2,7 +2,7 @@
 
 ![adminservice_icon](../images/logos/temporary_icon.png)
 
-**The official documentation on the open source module 'AdminService,' the versatile, easy-to-work-with admin module for any and all Roblox developers to use!**
+**The official documentation on the open source module 'AdminService,' the versatile, easy-to-work-with admin module for any and all Roblox developers to use**
 
 ---
 

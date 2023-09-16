@@ -20,4 +20,4 @@ AmoraFolf
 
 #### Psst, here are some links where you can find me!
 
-[DevForum ](https://devforum.roblox.com/u/amorafolf/summary){ .md-button .md-button--primary }
+[DevForum](https://devforum.roblox.com/u/amorafolf/summary){ .md-button .md-button--primary }

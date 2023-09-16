@@ -16,4 +16,6 @@ With the module being open source, and its user-friendly work envrionment, you c
 
 ### Click [here](https://www.youtube.com) to view the DevForum post about AdminService. This documentation is where the information describing AdminService is.
 
+AdminService is protected with the GNU General Public License v3.0
+
 [To the Basics!](https://amorafolf.github.io/AdminService/basics/setup/){ .md-button .md-button--primary }

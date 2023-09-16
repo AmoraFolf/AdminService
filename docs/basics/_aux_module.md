@@ -16,3 +16,5 @@ Permissions also only restrict certain very high level commands, like using `/ba
 The way permissions are setup is also a little weird compared to HD Admin using nested tables, however, that was the best way it would work with how it was all programmed before permissions were added in.
 
 Adding players into permissions is very simple. `1` is the highest permission, and `3` has the lowest. Every permission has a table inside called `Players`. You add the `UserId` of every player you want to give that permission.
+
+# Refer to the "Read Me Important" module inside of AdminService for more information.

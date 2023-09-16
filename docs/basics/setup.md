@@ -42,4 +42,6 @@ local AdminService = require(script.Parent:WaitForChild("AdminService")) --// Ge
 Players.PlayerAdded:Connect(AdminService.init) --// Runs the initializer for the player and sets everything up for them.
 ```
 
+---
+
 And boom, you've setup AdminService!

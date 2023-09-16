@@ -22,4 +22,4 @@ I hope you have a great time with this module!
 
 ![amorafolfgames](images/logos/AmoraFolf_Games_256x128.png)
 
-[To the Basics!](https://amorafolf.github.io/AdminService/basics/setup){ .md-button }
+[To the Basics!](https://amorafolf.github.io/AdminService/basics/setup/){ .md-button }

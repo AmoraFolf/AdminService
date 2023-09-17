@@ -181,4 +181,8 @@ cmdname = {
 }, --// This comma at the end is very important. Without it, the script will error because it will not know how to separate it from the next index of the table. 
 ```
 
+---
+
+And that is the process of making custom commands! Bravo, have a medal! :medal:
+
 [Previous Page](https://amorafolf.github.io/AdminService/basics/_aux_module/){ .md-button .md-button--primary } [Next Page](https://amorafolf.github.io/AdminService/basics/updating/){ .md-button .md-button--primary }

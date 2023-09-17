@@ -65,7 +65,7 @@ Cmds.speed = function(sender: Player, arguments: {any})
     if player then
         --// This is where code gets ran.
     else
-        GUI:Notify(sender, "Error", "First and/or second player is not in the experience") --// Using the GUI module in AdminService, this will give the sender a notification if the player variable is nil.
+        GUI:Notify(sender, "Error", "Player is not in the experience") --// Using the GUI module in AdminService, this will give the sender a notification if the player variable is nil.
     end
 end
 ```
@@ -94,7 +94,7 @@ Cmds.speed = function(sender: Player, arguments: {any})
         if player then
             --// This is where code gets ran. (It is the exact same for all three spots)
         else
-            GUI:Notify(sender, "Error", "First and/or second player is not in the experience") --// Using the GUI module in AdminService, this will give the sender a notification if the player variable is nil.
+            GUI:Notify(sender, "Error", "Player is not in the experience") --// Using the GUI module in AdminService, this will give the sender a notification if the player variable is nil.
         end
     end
 end
@@ -124,6 +124,8 @@ Cmds.speed = function(sender: Player, arguments: {any})
                 if arguments[2] then --// Checks if the second argument (the number to set as the WalkSpeed) exists.
                     local speed = tonumber(arguments[2]) --// Converts the argument (a string) into a number
                     humanoid.WalkSpeed = speed
+                else
+                    GUI:Notify(sender, "Error", "You must supply a number to set the speed of "..player.Name.."'s character")
                 end
             end
         end)
@@ -136,6 +138,8 @@ Cmds.speed = function(sender: Player, arguments: {any})
                 if arguments[2] then --// Checks if the second argument (the number to set as the WalkSpeed) exists.
                     local speed = tonumber(arguments[2]) --// Converts the argument (a string) into a number
                     humanoid.WalkSpeed = speed
+                else
+                    GUI:Notify(sender, "Error", "You must supply a number to set the speed of "..player.Name.."'s character")
                 end
             end
         end)
@@ -154,10 +158,12 @@ Cmds.speed = function(sender: Player, arguments: {any})
                 if arguments[2] then --// Checks if the second argument (the number to set as the WalkSpeed) exists.
                     local speed = tonumber(arguments[2]) --// Converts the argument (a string) into a number
                     humanoid.WalkSpeed = speed
+                else
+                    GUI:Notify(sender, "Error", "You must supply a number to set the speed of "..player.Name.."'s character")
                 end
             end
         else
-            GUI:Notify(sender, "Error", "First and/or second player is not in the experience")
+            GUI:Notify(sender, "Error", "Player is not in the experience")
         end
     end
 end

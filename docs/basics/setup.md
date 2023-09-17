@@ -50,4 +50,4 @@ Players.PlayerAdded:Connect(AdminService.init) --// Runs the initializer for the
 
 And boom, you've setup AdminService!
 
-[Next Page](https://amorafolf.github.io/AdminService/basics/_aux_module/){ .md-button .md-button--primary }
+[Previous Page](https://amorafolf.github.io/AdminService/){ .md-button .md-button--primary } [Next Page](https://amorafolf.github.io/AdminService/basics/_aux_module/){ .md-button .md-button--primary }

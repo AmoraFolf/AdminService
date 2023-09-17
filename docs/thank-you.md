@@ -21,3 +21,7 @@ AmoraFolf
 #### Psst, here are some links where you can find me!
 
 [Roblox](https://www.roblox.com/users/56437368/profile){ .md-button .md-button--primary } [DevForum](https://devforum.roblox.com/u/amorafolf/summary){ .md-button .md-button--primary } [YouTube](https://www.youtube.com/@AmoraFolf){ .md-button .md-button--primary }
+
+---
+
+[Previous Page](https://amorafolf.github.io/AdminService/troubleshooting/){ .md-button .md-button--primary }

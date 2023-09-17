@@ -97,3 +97,5 @@ _aux.hasPermission(player) is used to check if a player has a certain permission
 zero and they are an admin (which they have to be to have the permission level NumberValue), they will have access to all commands not restricted by permission checks
 
 _aux.getCharacters() will return a table of the characters for every player in the experience
+
+[Previous Page](https://amorafolf.github.io/AdminService/basics/_______/){ .md-button .md-button--primary } [Next Page](https://amorafolf.github.io/AdminService/troubleshooting/){ .md-button .md-button--primary }

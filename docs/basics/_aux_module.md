@@ -32,4 +32,4 @@ Here is a table with some other functions inside of the `_aux` module:
 
 #### There are more than these three. Refer to the "Read Me Important" module inside of AdminService for description on all of the functions.
 
-[Next Page](https://amorafolf.github.io/AdminService/basics/adding_commands/){ .md-button .md-button--primary }
+[Previous Page](https://amorafolf.github.io/AdminService/basics/setup/){ .md-button .md-button--primary } [Next Page](https://amorafolf.github.io/AdminService/basics/adding_commands/){ .md-button .md-button--primary }

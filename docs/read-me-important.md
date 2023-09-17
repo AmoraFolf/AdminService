@@ -98,4 +98,4 @@ zero and they are an admin (which they have to be to have the permission level N
 
 _aux.getCharacters() will return a table of the characters for every player in the experience
 
-[Previous Page](https://amorafolf.github.io/AdminService/basics/_______/){ .md-button .md-button--primary } [Next Page](https://amorafolf.github.io/AdminService/troubleshooting/){ .md-button .md-button--primary }
+[Previous Page](https://amorafolf.github.io/AdminService/basics/updating/){ .md-button .md-button--primary } [Next Page](https://amorafolf.github.io/AdminService/troubleshooting/){ .md-button .md-button--primary }

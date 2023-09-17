@@ -11,4 +11,4 @@ To update, you simply do the process shown on the `Setup` page. Insert the modul
 
 After you've done those steps, boom! You successfully updated AdminService, and if you had any, carried over your custom commands and changes to it!
 
-[Previous Page](https://amorafolf.github.io/AdminService/basics/adding_commands/){ .md-button .md-button--primary } [Next Page](https://amorafolf.github.io/AdminService/basics/_________/){ .md-button .md-button--primary }
+[Previous Page](https://amorafolf.github.io/AdminService/basics/adding_commands/){ .md-button .md-button--primary } [Next Page](https://amorafolf.github.io/AdminService/read-me-important/){ .md-button .md-button--primary }

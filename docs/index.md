@@ -1,7 +1,7 @@
 # AdminService
 
 You're most likely here because you're looking over my portfolio! Download the project file to review the code for yourself!
-[AdminService.rbxl](files/AdminService.rbxl)
+[AdminService.rbxl]({{files/AdminService.rbxl}})
 
 I only ask that you not use this in your projects. This version is not finished, and the finished product will be significantly different. Make sure to [follow me on the Roblox DevForum](https://devforum.roblox.com/u/amorafolf/summary) to get a notification about my post when it comes!
 

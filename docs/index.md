@@ -14,7 +14,7 @@ AdminService is an open source module meant to make admin commands easy!
 
 With the module being open source, and its user-friendly work envrionment, you can easily add commands, even with very low level knowledge of Luau. Though, they may be basic and restrained by that.. but you will be able to do more with the more you learn!
 
-Click [here](https://www.youtube.com) to view the DevForum post about AdminService. This documentation is where the information describing AdminService is.
+(This link does not exist yet, so it is just the YouTube home page, lmfao) Click [here](https://www.youtube.com) to view the DevForum post about AdminService. This documentation is where the information describing AdminService is.
 
 AdminService is protected with the GNU General Public License v3.0
 

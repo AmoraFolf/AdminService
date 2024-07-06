@@ -8,6 +8,13 @@
 
 ---
 
+You're most likely here because you're looking over my portfolio! Download the project file to review the code for yourself!
+
+
+I only ask that you not use this in your projects. This is not currently finished. Make sure to [follow me on the Roblox DevForum](https://devforum.roblox.com/u/amorafolf/summary)
+
+---
+
 # What is AdminService?
 
 AdminService is an open source module meant to make admin commands easy!

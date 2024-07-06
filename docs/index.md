@@ -17,7 +17,7 @@ I only ask that you not use this in your projects. This version is not finished,
 
 # What is AdminService?
 
-AdminService is an open source module meant to make admin commands easy!
+AdminService is an open source module meant to make custom admin commands easy!
 
 With the module being open source, and its user-friendly work envrionment, you can easily add commands, even with very low level knowledge of Luau. Though, they may be basic and restrained by that.. but you will be able to do more with the more you learn!
 
